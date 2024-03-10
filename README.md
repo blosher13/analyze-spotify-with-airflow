@@ -1,4 +1,4 @@
-# analyze-spotify-with-airflow
+# Analyze Spotify with Airflow
 Analyze spotify data by creating an ETL(Extract, Transform, Load) pipeline using Python and automate the process through Apache airflow.
 
 
@@ -7,10 +7,10 @@ Analyze spotify data by creating an ETL(Extract, Transform, Load) pipeline using
 I used Spotify’s API to read the data and perform some basic transformations and Data Quality checks, and finally loaded the retrieved data to PostgreSQL DB and then automate the entire process through airflow.
 Tech Stack / Skill used:
 
-. Python
-. API’s
-. Docker
-. Airflow
-. PostgreSQL
+1. Python
+2. API’s
+3. Docker
+4. Airflow
+5. PostgreSQL
 
 
